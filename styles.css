@@ -1,0 +1,11 @@
+.page-title {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #5c89b6; 
+}
+
+.recipe-link-list {
+    font-size: 24px;
+    font-family:'Courier New', Courier, sans-serif;
+}
